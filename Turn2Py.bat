@@ -1,0 +1,1 @@
+C:/Python34/Lib/site-packages/PyQt4/pyuic4.bat -x Studly_Case_Converter.ui -o StudlyCaseConverter.py
