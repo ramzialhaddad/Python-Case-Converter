@@ -1,2 +1,3 @@
-# text2studly
-GUI and Command line interface for a text to sTuDlY converter
+# Python Case Converter
+GUI and Command line interface for a Case Converter
+Youtube Video comming soon
